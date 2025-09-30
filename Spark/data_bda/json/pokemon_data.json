@@ -1,0 +1,2031 @@
+[
+  {
+    "Nombre": "Robin Barnes",
+    "Tipo": "Wish/Store",
+    "Estad\u00edsticas": {
+      "HP": 56,
+      "Ataque": 5,
+      "Defensa": 18,
+      "Velocidad": 55
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Jennifer Mcdonald DVM",
+        "Tipo": "Among/Positive"
+      },
+      {
+        "Nombre": "Bianca Smith",
+        "Tipo": "Cover/Final"
+      },
+      {
+        "Nombre": "Ricardo Rodriguez",
+        "Tipo": "Door/Sit"
+      }
+    ]
+  },
+  {
+    "Nombre": "Ivan Wells",
+    "Tipo": "Cover/Gun",
+    "Estad\u00edsticas": {
+      "HP": 96,
+      "Ataque": 46,
+      "Defensa": 93,
+      "Velocidad": 56
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Mark Sanchez",
+    "Tipo": "Huge/Change",
+    "Estad\u00edsticas": {
+      "HP": 57,
+      "Ataque": 27,
+      "Defensa": 96,
+      "Velocidad": 77
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Chelsea Walton",
+        "Tipo": "Collection/Imagine"
+      },
+      {
+        "Nombre": "Nancy Johnson",
+        "Tipo": "Center/Meet"
+      },
+      {
+        "Nombre": "Wayne Horton",
+        "Tipo": "Memory/Treatment"
+      }
+    ]
+  },
+  {
+    "Nombre": "Samuel Mcneil",
+    "Tipo": "Quality/Room",
+    "Estad\u00edsticas": {
+      "HP": 20,
+      "Ataque": 42,
+      "Defensa": 29,
+      "Velocidad": 54
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Karen Vargas",
+        "Tipo": "Capital/Assume"
+      },
+      {
+        "Nombre": "Cody Rivera",
+        "Tipo": "Nice/Accept"
+      }
+    ]
+  },
+  {
+    "Nombre": "Phillip Stone",
+    "Tipo": "Wear/Area",
+    "Estad\u00edsticas": {
+      "HP": 60,
+      "Ataque": 60,
+      "Defensa": 49,
+      "Velocidad": 39
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Derek Melendez",
+        "Tipo": "Business/Account"
+      },
+      {
+        "Nombre": "Katherine Ewing",
+        "Tipo": "Condition/Himself"
+      }
+    ]
+  },
+  {
+    "Nombre": "Terri Rhodes MD",
+    "Tipo": "Administration/Car",
+    "Estad\u00edsticas": {
+      "HP": 6,
+      "Ataque": 72,
+      "Defensa": 51,
+      "Velocidad": 95
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Caitlin Hancock",
+        "Tipo": "Government/Thank"
+      }
+    ]
+  },
+  {
+    "Nombre": "Lisa Barnett",
+    "Tipo": "Daughter/Will",
+    "Estad\u00edsticas": {
+      "HP": 66,
+      "Ataque": 88,
+      "Defensa": 57,
+      "Velocidad": 25
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Taylor Wilson",
+        "Tipo": "Goal/Author"
+      }
+    ]
+  },
+  {
+    "Nombre": "John Williams",
+    "Tipo": "Hand/Place",
+    "Estad\u00edsticas": {
+      "HP": 75,
+      "Ataque": 49,
+      "Defensa": 17,
+      "Velocidad": 2
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Carl Hill",
+        "Tipo": "Return/Reason"
+      },
+      {
+        "Nombre": "David Cooke",
+        "Tipo": "Bit/Break"
+      },
+      {
+        "Nombre": "David Gutierrez",
+        "Tipo": "Consumer/Plant"
+      }
+    ]
+  },
+  {
+    "Nombre": "Brandon Hebert",
+    "Tipo": "Federal/Practice",
+    "Estad\u00edsticas": {
+      "HP": 100,
+      "Ataque": 45,
+      "Defensa": 57,
+      "Velocidad": 50
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Emily Welch",
+    "Tipo": "Boy/History",
+    "Estad\u00edsticas": {
+      "HP": 83,
+      "Ataque": 48,
+      "Defensa": 81,
+      "Velocidad": 88
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Christina Miranda",
+    "Tipo": "Pick/Tree",
+    "Estad\u00edsticas": {
+      "HP": 11,
+      "Ataque": 48,
+      "Defensa": 94,
+      "Velocidad": 90
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Jeffrey Klein",
+        "Tipo": "Set/Course"
+      }
+    ]
+  },
+  {
+    "Nombre": "Christopher Lucas",
+    "Tipo": "Court/Example",
+    "Estad\u00edsticas": {
+      "HP": 60,
+      "Ataque": 30,
+      "Defensa": 39,
+      "Velocidad": 20
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Ashley Mccall DVM",
+        "Tipo": "Natural/Evidence"
+      },
+      {
+        "Nombre": "Charles Hanna",
+        "Tipo": "Full/Town"
+      }
+    ]
+  },
+  {
+    "Nombre": "Brian Hahn",
+    "Tipo": "Money/Follow",
+    "Estad\u00edsticas": {
+      "HP": 56,
+      "Ataque": 100,
+      "Defensa": 68,
+      "Velocidad": 8
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Daniel Thomas",
+    "Tipo": "Hair/Again",
+    "Estad\u00edsticas": {
+      "HP": 41,
+      "Ataque": 27,
+      "Defensa": 49,
+      "Velocidad": 5
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "George Morrison",
+        "Tipo": "Technology/Make"
+      },
+      {
+        "Nombre": "Brian Richard",
+        "Tipo": "Three/Successful"
+      }
+    ]
+  },
+  {
+    "Nombre": "Anthony Davis",
+    "Tipo": "Chair/Practice",
+    "Estad\u00edsticas": {
+      "HP": 48,
+      "Ataque": 41,
+      "Defensa": 70,
+      "Velocidad": 82
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Jared Hernandez",
+        "Tipo": "Plan/Responsibility"
+      },
+      {
+        "Nombre": "Valerie Schmidt",
+        "Tipo": "Item/We"
+      },
+      {
+        "Nombre": "Kenneth Brock",
+        "Tipo": "During/Memory"
+      }
+    ]
+  },
+  {
+    "Nombre": "Jennifer Montgomery",
+    "Tipo": "First/Cost",
+    "Estad\u00edsticas": {
+      "HP": 63,
+      "Ataque": 24,
+      "Defensa": 55,
+      "Velocidad": 65
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Kimberly Booth",
+        "Tipo": "Base/Interest"
+      },
+      {
+        "Nombre": "Lisa Harper",
+        "Tipo": "Contain/Second"
+      }
+    ]
+  },
+  {
+    "Nombre": "Samuel Jackson",
+    "Tipo": "Voice/Reason",
+    "Estad\u00edsticas": {
+      "HP": 94,
+      "Ataque": 55,
+      "Defensa": 36,
+      "Velocidad": 49
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Anthony Smith",
+        "Tipo": "Husband/Outside"
+      }
+    ]
+  },
+  {
+    "Nombre": "Chelsea Gonzalez",
+    "Tipo": "Everybody/Already",
+    "Estad\u00edsticas": {
+      "HP": 80,
+      "Ataque": 64,
+      "Defensa": 26,
+      "Velocidad": 51
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Joseph Mason",
+        "Tipo": "Director/Computer"
+      }
+    ]
+  },
+  {
+    "Nombre": "William Hatfield",
+    "Tipo": "Democratic/Sport",
+    "Estad\u00edsticas": {
+      "HP": 66,
+      "Ataque": 83,
+      "Defensa": 36,
+      "Velocidad": 45
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Hunter Ramirez",
+        "Tipo": "Clear/Strong"
+      }
+    ]
+  },
+  {
+    "Nombre": "Steve Vasquez",
+    "Tipo": "True/They",
+    "Estad\u00edsticas": {
+      "HP": 27,
+      "Ataque": 35,
+      "Defensa": 40,
+      "Velocidad": 56
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "David Williams",
+        "Tipo": "Soon/Amount"
+      }
+    ]
+  },
+  {
+    "Nombre": "Tina Washington",
+    "Tipo": "Benefit/Doctor",
+    "Estad\u00edsticas": {
+      "HP": 47,
+      "Ataque": 12,
+      "Defensa": 21,
+      "Velocidad": 54
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Jordan Baker",
+    "Tipo": "Rock/Event",
+    "Estad\u00edsticas": {
+      "HP": 61,
+      "Ataque": 53,
+      "Defensa": 54,
+      "Velocidad": 22
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Eric Wilson",
+    "Tipo": "Event/Need",
+    "Estad\u00edsticas": {
+      "HP": 26,
+      "Ataque": 94,
+      "Defensa": 3,
+      "Velocidad": 53
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Kayla Mcpherson",
+        "Tipo": "Contain/Morning"
+      },
+      {
+        "Nombre": "Shelby Mercado",
+        "Tipo": "Fast/Within"
+      }
+    ]
+  },
+  {
+    "Nombre": "Charles Hall",
+    "Tipo": "List/Win",
+    "Estad\u00edsticas": {
+      "HP": 32,
+      "Ataque": 31,
+      "Defensa": 99,
+      "Velocidad": 60
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Shawn Camacho",
+    "Tipo": "Total/Subject",
+    "Estad\u00edsticas": {
+      "HP": 41,
+      "Ataque": 17,
+      "Defensa": 25,
+      "Velocidad": 21
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Amanda Jordan",
+        "Tipo": "Personal/Himself"
+      },
+      {
+        "Nombre": "Robyn Graves",
+        "Tipo": "Behind/Employee"
+      },
+      {
+        "Nombre": "Curtis Vega",
+        "Tipo": "Already/Painting"
+      }
+    ]
+  },
+  {
+    "Nombre": "Paul Gutierrez",
+    "Tipo": "Fast/Product",
+    "Estad\u00edsticas": {
+      "HP": 33,
+      "Ataque": 100,
+      "Defensa": 77,
+      "Velocidad": 96
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Robert Yu",
+        "Tipo": "Season/Network"
+      }
+    ]
+  },
+  {
+    "Nombre": "Victoria Madden",
+    "Tipo": "Seek/Able",
+    "Estad\u00edsticas": {
+      "HP": 71,
+      "Ataque": 44,
+      "Defensa": 64,
+      "Velocidad": 49
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Jennifer Pollard",
+        "Tipo": "Along/Opportunity"
+      },
+      {
+        "Nombre": "Jonathan Chambers",
+        "Tipo": "Never/Morning"
+      }
+    ]
+  },
+  {
+    "Nombre": "Carl Smith",
+    "Tipo": "Happy/Force",
+    "Estad\u00edsticas": {
+      "HP": 64,
+      "Ataque": 33,
+      "Defensa": 4,
+      "Velocidad": 26
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "James Baker",
+        "Tipo": "Plant/Quickly"
+      }
+    ]
+  },
+  {
+    "Nombre": "Mary Escobar",
+    "Tipo": "Must/Wind",
+    "Estad\u00edsticas": {
+      "HP": 35,
+      "Ataque": 4,
+      "Defensa": 58,
+      "Velocidad": 43
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "George Hall",
+        "Tipo": "Service/Section"
+      },
+      {
+        "Nombre": "Jacqueline Morris",
+        "Tipo": "Stage/Glass"
+      }
+    ]
+  },
+  {
+    "Nombre": "Christina Miller",
+    "Tipo": "Better/Table",
+    "Estad\u00edsticas": {
+      "HP": 53,
+      "Ataque": 30,
+      "Defensa": 49,
+      "Velocidad": 80
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Michael Mcdonald",
+        "Tipo": "Seek/Address"
+      },
+      {
+        "Nombre": "Kayla Rivera",
+        "Tipo": "Participant/Unit"
+      }
+    ]
+  },
+  {
+    "Nombre": "Alison Bennett",
+    "Tipo": "Free/Though",
+    "Estad\u00edsticas": {
+      "HP": 33,
+      "Ataque": 36,
+      "Defensa": 30,
+      "Velocidad": 45
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Laura Hall",
+        "Tipo": "Her/Clearly"
+      }
+    ]
+  },
+  {
+    "Nombre": "Brian Harrison",
+    "Tipo": "Buy/Fine",
+    "Estad\u00edsticas": {
+      "HP": 29,
+      "Ataque": 61,
+      "Defensa": 49,
+      "Velocidad": 61
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Michele Atkinson",
+        "Tipo": "Teach/Contain"
+      },
+      {
+        "Nombre": "Joe Lara",
+        "Tipo": "Discover/Team"
+      }
+    ]
+  },
+  {
+    "Nombre": "Michele Evans",
+    "Tipo": "Parent/From",
+    "Estad\u00edsticas": {
+      "HP": 21,
+      "Ataque": 68,
+      "Defensa": 40,
+      "Velocidad": 76
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Heather Short",
+        "Tipo": "Behind/Camera"
+      }
+    ]
+  },
+  {
+    "Nombre": "Maureen Johnson",
+    "Tipo": "Seat/Factor",
+    "Estad\u00edsticas": {
+      "HP": 8,
+      "Ataque": 18,
+      "Defensa": 18,
+      "Velocidad": 43
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Lauren Brennan",
+        "Tipo": "Although/Produce"
+      }
+    ]
+  },
+  {
+    "Nombre": "Kimberly Jones",
+    "Tipo": "Paper/Break",
+    "Estad\u00edsticas": {
+      "HP": 74,
+      "Ataque": 29,
+      "Defensa": 3,
+      "Velocidad": 97
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Lori Mitchell",
+    "Tipo": "Evidence/Amount",
+    "Estad\u00edsticas": {
+      "HP": 18,
+      "Ataque": 15,
+      "Defensa": 5,
+      "Velocidad": 28
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Brian Gay",
+        "Tipo": "People/Detail"
+      },
+      {
+        "Nombre": "Regina Gutierrez",
+        "Tipo": "Medical/Before"
+      }
+    ]
+  },
+  {
+    "Nombre": "Joseph Nelson",
+    "Tipo": "Arrive/House",
+    "Estad\u00edsticas": {
+      "HP": 19,
+      "Ataque": 67,
+      "Defensa": 37,
+      "Velocidad": 70
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Christopher Reed",
+    "Tipo": "Significant/Modern",
+    "Estad\u00edsticas": {
+      "HP": 91,
+      "Ataque": 57,
+      "Defensa": 24,
+      "Velocidad": 85
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Brittany Henson",
+    "Tipo": "Teach/Reach",
+    "Estad\u00edsticas": {
+      "HP": 96,
+      "Ataque": 72,
+      "Defensa": 38,
+      "Velocidad": 75
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Alexander Terry",
+        "Tipo": "Across/Resource"
+      },
+      {
+        "Nombre": "Stephen Avery",
+        "Tipo": "Risk/Chair"
+      },
+      {
+        "Nombre": "Jeremy Clark",
+        "Tipo": "Bring/Key"
+      }
+    ]
+  },
+  {
+    "Nombre": "Nicholas Church",
+    "Tipo": "Population/Do",
+    "Estad\u00edsticas": {
+      "HP": 40,
+      "Ataque": 82,
+      "Defensa": 45,
+      "Velocidad": 1
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Brian Torres",
+    "Tipo": "Age/Reality",
+    "Estad\u00edsticas": {
+      "HP": 92,
+      "Ataque": 49,
+      "Defensa": 54,
+      "Velocidad": 71
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Timothy Wong",
+        "Tipo": "Strategy/Let"
+      },
+      {
+        "Nombre": "Angela Jordan",
+        "Tipo": "Politics/Including"
+      }
+    ]
+  },
+  {
+    "Nombre": "Christopher Eaton",
+    "Tipo": "Million/You",
+    "Estad\u00edsticas": {
+      "HP": 80,
+      "Ataque": 41,
+      "Defensa": 14,
+      "Velocidad": 76
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Tammy Duarte",
+        "Tipo": "Law/Civil"
+      }
+    ]
+  },
+  {
+    "Nombre": "Robert Carpenter",
+    "Tipo": "Director/Shoulder",
+    "Estad\u00edsticas": {
+      "HP": 36,
+      "Ataque": 20,
+      "Defensa": 15,
+      "Velocidad": 67
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Sara Salazar",
+        "Tipo": "Environment/Own"
+      }
+    ]
+  },
+  {
+    "Nombre": "Sandy Mendoza",
+    "Tipo": "Large/Thousand",
+    "Estad\u00edsticas": {
+      "HP": 61,
+      "Ataque": 75,
+      "Defensa": 9,
+      "Velocidad": 81
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Mark Hall",
+        "Tipo": "Investment/Thing"
+      },
+      {
+        "Nombre": "Brian Hawkins",
+        "Tipo": "War/Course"
+      }
+    ]
+  },
+  {
+    "Nombre": "Sandra Brown",
+    "Tipo": "Might/Difference",
+    "Estad\u00edsticas": {
+      "HP": 54,
+      "Ataque": 54,
+      "Defensa": 78,
+      "Velocidad": 94
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Shelby Barron",
+        "Tipo": "Town/Audience"
+      },
+      {
+        "Nombre": "Sherry Strickland",
+        "Tipo": "Land/Money"
+      },
+      {
+        "Nombre": "Angela Miller",
+        "Tipo": "However/If"
+      }
+    ]
+  },
+  {
+    "Nombre": "Jeffery Johnson",
+    "Tipo": "Perhaps/Big",
+    "Estad\u00edsticas": {
+      "HP": 49,
+      "Ataque": 95,
+      "Defensa": 100,
+      "Velocidad": 50
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Clayton Moran Jr.",
+        "Tipo": "Answer/Decade"
+      },
+      {
+        "Nombre": "Thomas Hawkins",
+        "Tipo": "Any/Benefit"
+      },
+      {
+        "Nombre": "Brandon Larsen",
+        "Tipo": "Nice/Consumer"
+      }
+    ]
+  },
+  {
+    "Nombre": "Ashley Blevins",
+    "Tipo": "Reality/Let",
+    "Estad\u00edsticas": {
+      "HP": 60,
+      "Ataque": 1,
+      "Defensa": 9,
+      "Velocidad": 71
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Catherine Jones",
+        "Tipo": "Low/On"
+      }
+    ]
+  },
+  {
+    "Nombre": "David Melendez",
+    "Tipo": "Player/Run",
+    "Estad\u00edsticas": {
+      "HP": 6,
+      "Ataque": 34,
+      "Defensa": 38,
+      "Velocidad": 48
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Kristen Johnson",
+    "Tipo": "Energy/History",
+    "Estad\u00edsticas": {
+      "HP": 15,
+      "Ataque": 33,
+      "Defensa": 44,
+      "Velocidad": 66
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Joseph Clark",
+        "Tipo": "Defense/There"
+      }
+    ]
+  },
+  {
+    "Nombre": "Judy Riley",
+    "Tipo": "Important/Space",
+    "Estad\u00edsticas": {
+      "HP": 6,
+      "Ataque": 60,
+      "Defensa": 25,
+      "Velocidad": 24
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "George Richmond",
+        "Tipo": "Candidate/Suggest"
+      }
+    ]
+  },
+  {
+    "Nombre": "Deanna Thomas",
+    "Tipo": "Ago/Phone",
+    "Estad\u00edsticas": {
+      "HP": 57,
+      "Ataque": 24,
+      "Defensa": 98,
+      "Velocidad": 40
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Melissa Warren",
+        "Tipo": "Since/Point"
+      },
+      {
+        "Nombre": "Tammy Thompson",
+        "Tipo": "Hit/Surface"
+      }
+    ]
+  },
+  {
+    "Nombre": "Richard Anderson",
+    "Tipo": "Alone/Window",
+    "Estad\u00edsticas": {
+      "HP": 80,
+      "Ataque": 68,
+      "Defensa": 51,
+      "Velocidad": 37
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Elizabeth Pope",
+        "Tipo": "Certainly/Understand"
+      }
+    ]
+  },
+  {
+    "Nombre": "Amber Erickson",
+    "Tipo": "Oil/Usually",
+    "Estad\u00edsticas": {
+      "HP": 4,
+      "Ataque": 24,
+      "Defensa": 72,
+      "Velocidad": 94
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Zachary Cooke",
+        "Tipo": "Board/Thing"
+      },
+      {
+        "Nombre": "Michael Fowler",
+        "Tipo": "Final/Positive"
+      },
+      {
+        "Nombre": "Carol Powers",
+        "Tipo": "Candidate/Treat"
+      }
+    ]
+  },
+  {
+    "Nombre": "Ashley Todd",
+    "Tipo": "Tend/Open",
+    "Estad\u00edsticas": {
+      "HP": 33,
+      "Ataque": 83,
+      "Defensa": 81,
+      "Velocidad": 97
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Glenda Miller",
+        "Tipo": "Where/Anyone"
+      },
+      {
+        "Nombre": "Justin Cole",
+        "Tipo": "Order/Couple"
+      },
+      {
+        "Nombre": "Justin Dunn",
+        "Tipo": "Two/Foreign"
+      }
+    ]
+  },
+  {
+    "Nombre": "Chase Smith",
+    "Tipo": "Much/From",
+    "Estad\u00edsticas": {
+      "HP": 73,
+      "Ataque": 62,
+      "Defensa": 84,
+      "Velocidad": 78
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Kimberly Knight",
+        "Tipo": "By/Answer"
+      },
+      {
+        "Nombre": "Carrie Simmons",
+        "Tipo": "Identify/Window"
+      }
+    ]
+  },
+  {
+    "Nombre": "Lisa Martin",
+    "Tipo": "Talk/Do",
+    "Estad\u00edsticas": {
+      "HP": 62,
+      "Ataque": 90,
+      "Defensa": 43,
+      "Velocidad": 3
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Elizabeth Hamilton",
+        "Tipo": "Suddenly/Animal"
+      }
+    ]
+  },
+  {
+    "Nombre": "Stephen Smith",
+    "Tipo": "Walk/Enough",
+    "Estad\u00edsticas": {
+      "HP": 28,
+      "Ataque": 49,
+      "Defensa": 63,
+      "Velocidad": 34
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Richard Summers",
+    "Tipo": "Task/Address",
+    "Estad\u00edsticas": {
+      "HP": 51,
+      "Ataque": 66,
+      "Defensa": 7,
+      "Velocidad": 2
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Darrell Woods",
+        "Tipo": "Although/Let"
+      },
+      {
+        "Nombre": "Jack Hale",
+        "Tipo": "Ability/Throw"
+      }
+    ]
+  },
+  {
+    "Nombre": "Melissa Duran",
+    "Tipo": "Process/List",
+    "Estad\u00edsticas": {
+      "HP": 29,
+      "Ataque": 8,
+      "Defensa": 38,
+      "Velocidad": 56
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Debra Heath",
+    "Tipo": "Prepare/Wrong",
+    "Estad\u00edsticas": {
+      "HP": 50,
+      "Ataque": 77,
+      "Defensa": 13,
+      "Velocidad": 34
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Claudia Mcguire",
+    "Tipo": "Success/Article",
+    "Estad\u00edsticas": {
+      "HP": 18,
+      "Ataque": 99,
+      "Defensa": 2,
+      "Velocidad": 85
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Kenneth Green",
+        "Tipo": "Lawyer/Something"
+      }
+    ]
+  },
+  {
+    "Nombre": "Tara Wagner",
+    "Tipo": "Truth/Subject",
+    "Estad\u00edsticas": {
+      "HP": 45,
+      "Ataque": 3,
+      "Defensa": 13,
+      "Velocidad": 79
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Michael Baker",
+        "Tipo": "Raise/Hit"
+      },
+      {
+        "Nombre": "Gary Turner",
+        "Tipo": "Poor/Physical"
+      }
+    ]
+  },
+  {
+    "Nombre": "Tara Smith",
+    "Tipo": "Behind/Central",
+    "Estad\u00edsticas": {
+      "HP": 24,
+      "Ataque": 10,
+      "Defensa": 64,
+      "Velocidad": 47
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Daniel Rivas",
+    "Tipo": "Population/Less",
+    "Estad\u00edsticas": {
+      "HP": 36,
+      "Ataque": 35,
+      "Defensa": 55,
+      "Velocidad": 5
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "David Martin",
+        "Tipo": "Account/Food"
+      }
+    ]
+  },
+  {
+    "Nombre": "Thomas Jarvis",
+    "Tipo": "Information/Level",
+    "Estad\u00edsticas": {
+      "HP": 66,
+      "Ataque": 23,
+      "Defensa": 48,
+      "Velocidad": 18
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Phillip Flores DDS",
+        "Tipo": "Support/Student"
+      },
+      {
+        "Nombre": "Sean Garza",
+        "Tipo": "Find/Now"
+      }
+    ]
+  },
+  {
+    "Nombre": "Ryan Avila",
+    "Tipo": "Serious/Class",
+    "Estad\u00edsticas": {
+      "HP": 19,
+      "Ataque": 15,
+      "Defensa": 62,
+      "Velocidad": 86
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Jeffrey Conrad",
+        "Tipo": "On/Political"
+      },
+      {
+        "Nombre": "Elizabeth Zavala",
+        "Tipo": "Four/Policy"
+      }
+    ]
+  },
+  {
+    "Nombre": "Amber Cherry DDS",
+    "Tipo": "Card/Many",
+    "Estad\u00edsticas": {
+      "HP": 80,
+      "Ataque": 25,
+      "Defensa": 99,
+      "Velocidad": 76
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Patricia Mckenzie",
+        "Tipo": "Type/Car"
+      }
+    ]
+  },
+  {
+    "Nombre": "Matthew Brooks",
+    "Tipo": "Nice/Then",
+    "Estad\u00edsticas": {
+      "HP": 94,
+      "Ataque": 67,
+      "Defensa": 92,
+      "Velocidad": 7
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Steven Kidd",
+        "Tipo": "Fact/Station"
+      }
+    ]
+  },
+  {
+    "Nombre": "Brandon Novak",
+    "Tipo": "Another/His",
+    "Estad\u00edsticas": {
+      "HP": 76,
+      "Ataque": 19,
+      "Defensa": 46,
+      "Velocidad": 26
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Curtis Roberts",
+        "Tipo": "Baby/Change"
+      },
+      {
+        "Nombre": "Melissa Bailey",
+        "Tipo": "Its/House"
+      },
+      {
+        "Nombre": "Cindy Calderon",
+        "Tipo": "Smile/Place"
+      }
+    ]
+  },
+  {
+    "Nombre": "Tammy Franklin",
+    "Tipo": "Pick/Teacher",
+    "Estad\u00edsticas": {
+      "HP": 27,
+      "Ataque": 88,
+      "Defensa": 62,
+      "Velocidad": 63
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Nicholas Sutton",
+        "Tipo": "Begin/Look"
+      }
+    ]
+  },
+  {
+    "Nombre": "Joseph Nelson",
+    "Tipo": "Personal/Tend",
+    "Estad\u00edsticas": {
+      "HP": 82,
+      "Ataque": 5,
+      "Defensa": 60,
+      "Velocidad": 56
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Lisa Hernandez",
+    "Tipo": "Sense/Smile",
+    "Estad\u00edsticas": {
+      "HP": 52,
+      "Ataque": 66,
+      "Defensa": 81,
+      "Velocidad": 56
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "John Valdez",
+        "Tipo": "Price/Plan"
+      },
+      {
+        "Nombre": "David Potter",
+        "Tipo": "Thus/Race"
+      }
+    ]
+  },
+  {
+    "Nombre": "Willie Acosta",
+    "Tipo": "Quality/Activity",
+    "Estad\u00edsticas": {
+      "HP": 79,
+      "Ataque": 95,
+      "Defensa": 57,
+      "Velocidad": 72
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Derek Vasquez",
+    "Tipo": "Candidate/War",
+    "Estad\u00edsticas": {
+      "HP": 64,
+      "Ataque": 58,
+      "Defensa": 59,
+      "Velocidad": 62
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Rebecca Beck",
+        "Tipo": "Lawyer/Some"
+      }
+    ]
+  },
+  {
+    "Nombre": "Natalie Jackson",
+    "Tipo": "Identify/Skill",
+    "Estad\u00edsticas": {
+      "HP": 88,
+      "Ataque": 86,
+      "Defensa": 91,
+      "Velocidad": 42
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Priscilla Black",
+        "Tipo": "Front/Glass"
+      },
+      {
+        "Nombre": "Noah Giles",
+        "Tipo": "Trip/Education"
+      },
+      {
+        "Nombre": "Kayla Rasmussen",
+        "Tipo": "Score/Increase"
+      }
+    ]
+  },
+  {
+    "Nombre": "Colton Smith",
+    "Tipo": "Old/Employee",
+    "Estad\u00edsticas": {
+      "HP": 96,
+      "Ataque": 52,
+      "Defensa": 24,
+      "Velocidad": 21
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Brian Shelton",
+        "Tipo": "Above/Might"
+      },
+      {
+        "Nombre": "Daniel Flores",
+        "Tipo": "Nothing/Nor"
+      },
+      {
+        "Nombre": "Kristi Martin",
+        "Tipo": "Trouble/Well"
+      }
+    ]
+  },
+  {
+    "Nombre": "Ellen Clark",
+    "Tipo": "Grow/Prove",
+    "Estad\u00edsticas": {
+      "HP": 68,
+      "Ataque": 85,
+      "Defensa": 30,
+      "Velocidad": 30
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Michelle Roberts",
+        "Tipo": "Run/Listen"
+      },
+      {
+        "Nombre": "James Young",
+        "Tipo": "Really/Interesting"
+      },
+      {
+        "Nombre": "Adam Vega",
+        "Tipo": "Draw/Believe"
+      }
+    ]
+  },
+  {
+    "Nombre": "Thomas Harris",
+    "Tipo": "Financial/Must",
+    "Estad\u00edsticas": {
+      "HP": 8,
+      "Ataque": 75,
+      "Defensa": 82,
+      "Velocidad": 63
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Teresa Arnold",
+        "Tipo": "Traditional/Budget"
+      }
+    ]
+  },
+  {
+    "Nombre": "Sara Williams",
+    "Tipo": "Interesting/Federal",
+    "Estad\u00edsticas": {
+      "HP": 65,
+      "Ataque": 86,
+      "Defensa": 89,
+      "Velocidad": 46
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Wesley Gregory",
+        "Tipo": "Group/Option"
+      },
+      {
+        "Nombre": "Kevin Washington",
+        "Tipo": "Soldier/Current"
+      },
+      {
+        "Nombre": "Karen Jenkins",
+        "Tipo": "Professor/Sing"
+      }
+    ]
+  },
+  {
+    "Nombre": "Tammy Jordan",
+    "Tipo": "Building/Just",
+    "Estad\u00edsticas": {
+      "HP": 12,
+      "Ataque": 44,
+      "Defensa": 50,
+      "Velocidad": 53
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Cameron Thompson",
+        "Tipo": "Author/Hundred"
+      }
+    ]
+  },
+  {
+    "Nombre": "Brandon Ware",
+    "Tipo": "Three/Change",
+    "Estad\u00edsticas": {
+      "HP": 9,
+      "Ataque": 11,
+      "Defensa": 1,
+      "Velocidad": 22
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "David Jackson",
+        "Tipo": "Art/Return"
+      }
+    ]
+  },
+  {
+    "Nombre": "Elizabeth Price",
+    "Tipo": "Explain/Necessary",
+    "Estad\u00edsticas": {
+      "HP": 44,
+      "Ataque": 30,
+      "Defensa": 71,
+      "Velocidad": 58
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "James Long",
+        "Tipo": "Individual/Employee"
+      }
+    ]
+  },
+  {
+    "Nombre": "Susan Martinez",
+    "Tipo": "Choice/Analysis",
+    "Estad\u00edsticas": {
+      "HP": 97,
+      "Ataque": 27,
+      "Defensa": 12,
+      "Velocidad": 99
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Michael Kelley",
+        "Tipo": "Front/See"
+      }
+    ]
+  },
+  {
+    "Nombre": "Kathryn Reyes",
+    "Tipo": "Environment/Town",
+    "Estad\u00edsticas": {
+      "HP": 61,
+      "Ataque": 29,
+      "Defensa": 32,
+      "Velocidad": 89
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Ms. Jessica Kelly",
+        "Tipo": "Face/Bag"
+      }
+    ]
+  },
+  {
+    "Nombre": "Kimberly Perez",
+    "Tipo": "Meeting/Woman",
+    "Estad\u00edsticas": {
+      "HP": 15,
+      "Ataque": 60,
+      "Defensa": 60,
+      "Velocidad": 57
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Samuel Bates",
+        "Tipo": "Certainly/Accept"
+      }
+    ]
+  },
+  {
+    "Nombre": "Andrew Jackson",
+    "Tipo": "Plan/Artist",
+    "Estad\u00edsticas": {
+      "HP": 76,
+      "Ataque": 99,
+      "Defensa": 39,
+      "Velocidad": 1
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Dr. Cynthia Mccullough",
+        "Tipo": "Church/Not"
+      }
+    ]
+  },
+  {
+    "Nombre": "James Flores",
+    "Tipo": "Become/Serve",
+    "Estad\u00edsticas": {
+      "HP": 14,
+      "Ataque": 45,
+      "Defensa": 68,
+      "Velocidad": 72
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Lisa Hopkins",
+        "Tipo": "Outside/Fly"
+      },
+      {
+        "Nombre": "Mrs. Kim Santos",
+        "Tipo": "Within/General"
+      },
+      {
+        "Nombre": "Lisa Oliver",
+        "Tipo": "Camera/Soon"
+      }
+    ]
+  },
+  {
+    "Nombre": "Steven Hall",
+    "Tipo": "Discuss/Place",
+    "Estad\u00edsticas": {
+      "HP": 49,
+      "Ataque": 61,
+      "Defensa": 97,
+      "Velocidad": 30
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Gregory Turner",
+    "Tipo": "Stay/Out",
+    "Estad\u00edsticas": {
+      "HP": 13,
+      "Ataque": 14,
+      "Defensa": 76,
+      "Velocidad": 100
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Ruben Cook",
+        "Tipo": "Foot/Color"
+      },
+      {
+        "Nombre": "Christina Winters",
+        "Tipo": "Drive/Of"
+      },
+      {
+        "Nombre": "Christopher Hayes",
+        "Tipo": "Key/Of"
+      }
+    ]
+  },
+  {
+    "Nombre": "Kristen Wong",
+    "Tipo": "Discover/Central",
+    "Estad\u00edsticas": {
+      "HP": 90,
+      "Ataque": 98,
+      "Defensa": 92,
+      "Velocidad": 13
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Thomas Brennan",
+    "Tipo": "Old/Carry",
+    "Estad\u00edsticas": {
+      "HP": 38,
+      "Ataque": 80,
+      "Defensa": 58,
+      "Velocidad": 3
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Nicholas Bryant",
+        "Tipo": "Approach/Pm"
+      }
+    ]
+  },
+  {
+    "Nombre": "Patricia Dunn",
+    "Tipo": "Source/Of",
+    "Estad\u00edsticas": {
+      "HP": 5,
+      "Ataque": 41,
+      "Defensa": 68,
+      "Velocidad": 73
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Austin Butler",
+        "Tipo": "Anything/Usually"
+      },
+      {
+        "Nombre": "Evan Francis",
+        "Tipo": "Better/Live"
+      }
+    ]
+  },
+  {
+    "Nombre": "Angel Coleman",
+    "Tipo": "Seek/All",
+    "Estad\u00edsticas": {
+      "HP": 92,
+      "Ataque": 12,
+      "Defensa": 89,
+      "Velocidad": 83
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Sara Bush",
+        "Tipo": "Bad/Hope"
+      },
+      {
+        "Nombre": "Nicholas Montgomery",
+        "Tipo": "Too/Last"
+      },
+      {
+        "Nombre": "Michael Green",
+        "Tipo": "Between/Maybe"
+      }
+    ]
+  },
+  {
+    "Nombre": "Anthony Monroe",
+    "Tipo": "Husband/Election",
+    "Estad\u00edsticas": {
+      "HP": 78,
+      "Ataque": 60,
+      "Defensa": 88,
+      "Velocidad": 93
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Steven Wheeler",
+    "Tipo": "Box/Pattern",
+    "Estad\u00edsticas": {
+      "HP": 66,
+      "Ataque": 8,
+      "Defensa": 59,
+      "Velocidad": 44
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Raymond Rodriguez",
+        "Tipo": "Central/Second"
+      }
+    ]
+  },
+  {
+    "Nombre": "Stephen Castillo",
+    "Tipo": "Easy/Of",
+    "Estad\u00edsticas": {
+      "HP": 59,
+      "Ataque": 32,
+      "Defensa": 40,
+      "Velocidad": 27
+    },
+    "Habilidades": [
+      "Jamoncio"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Sabrina Werner",
+        "Tipo": "Answer/Able"
+      },
+      {
+        "Nombre": "Sara Johnson MD",
+        "Tipo": "These/Yourself"
+      }
+    ]
+  },
+  {
+    "Nombre": "Stephanie Oconnor MD",
+    "Tipo": "Most/Deal",
+    "Estad\u00edsticas": {
+      "HP": 66,
+      "Ataque": 63,
+      "Defensa": 45,
+      "Velocidad": 90
+    },
+    "Habilidades": [
+      "LLoroso"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Lisa Castillo",
+        "Tipo": "Along/Act"
+      },
+      {
+        "Nombre": "Heather Rogers",
+        "Tipo": "Individual/Ok"
+      }
+    ]
+  },
+  {
+    "Nombre": "Karen Wiley",
+    "Tipo": "Small/Exist",
+    "Estad\u00edsticas": {
+      "HP": 57,
+      "Ataque": 8,
+      "Defensa": 38,
+      "Velocidad": 41
+    },
+    "Habilidades": [
+      "Sosegao"
+    ],
+    "Evoluciones": []
+  },
+  {
+    "Nombre": "Matthew Barnes",
+    "Tipo": "It/Car",
+    "Estad\u00edsticas": {
+      "HP": 52,
+      "Ataque": 46,
+      "Defensa": 91,
+      "Velocidad": 60
+    },
+    "Habilidades": [
+      "Fuerza Bruta"
+    ],
+    "Evoluciones": [
+      {
+        "Nombre": "Derek Hill",
+        "Tipo": "Again/Exist"
+      },
+      {
+        "Nombre": "Stephanie Walker",
+        "Tipo": "Ground/Science"
+      },
+      {
+        "Nombre": "Wendy Smith",
+        "Tipo": "Interest/Leave"
+      }
+    ]
+  },
+  {
+    "Nombre": "Scott Huerta",
+    "Tipo": "Color/Some",
+    "Estad\u00edsticas": {
+      "HP": 14,
+      "Ataque": 89,
+      "Defensa": 90,
+      "Velocidad": 82
+    },
+    "Habilidades": [
+      "Falso"
+    ],
+    "Evoluciones": []
+  }
+]

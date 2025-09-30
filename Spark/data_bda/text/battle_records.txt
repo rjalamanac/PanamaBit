@@ -1,0 +1,500 @@
+Evento: Front training.
+Nombre del entrenador: Erica Suarez
+Equipo de Pokemon: ['Lisa Martin', 'Brandon Hebert', 'William Hatfield', 'Richard Anderson', 'Brian Harrison', 'Victoria Madden']
+Resultado de la batalla: Gano
+
+Evento: Stage west career decide early.
+Nombre del entrenador: Timothy Scott
+Equipo de Pokemon: ['Robert Carpenter', 'Tammy Jordan', 'Stephen Smith', 'Gregory Turner', 'Joseph Nelson', 'Judy Riley']
+Resultado de la batalla: Perdio
+
+Evento: Election available kind.
+Nombre del entrenador: Karina Romero
+Equipo de Pokemon: ['Alison Bennett', 'Scott Huerta', 'Derek Vasquez', 'Samuel Mcneil', 'Brian Harrison', 'Maureen Johnson']
+Resultado de la batalla: Gano
+
+Evento: Election available kind.
+Nombre del entrenador: Richard Bauer
+Equipo de Pokemon: ['Stephanie Oconnor MD', 'Stephen Castillo', 'Jennifer Montgomery', 'Christina Miranda', 'Emily Welch', 'Lisa Martin']
+Resultado de la batalla: Perdio
+
+Evento: Sister present talk power on.
+Nombre del entrenador: Megan Thompson
+Equipo de Pokemon: ['Brian Hahn', 'Christopher Eaton', 'Tammy Jordan', 'Judy Riley', 'Richard Anderson', 'Kimberly Perez']
+Resultado de la batalla: Gano
+
+Evento: Stuff fill two race.
+Nombre del entrenador: Patricia Gross
+Equipo de Pokemon: ['Derek Vasquez', 'Melissa Duran', 'Mary Escobar', 'Steven Wheeler', 'Elizabeth Price', 'Scott Huerta']
+Resultado de la batalla: Gano
+
+Evento: Book see speak explain.
+Nombre del entrenador: Amanda Durham
+Equipo de Pokemon: ['Brandon Hebert', 'Lisa Martin', 'Brandon Hebert', 'Thomas Harris', 'Christina Miller', 'Brandon Novak']
+Resultado de la batalla: Perdio
+
+Evento: Physical benefit.
+Nombre del entrenador: Jeffrey Romero
+Equipo de Pokemon: ['Thomas Harris', 'Sandra Brown', 'Tara Wagner', 'Emily Welch', 'Thomas Jarvis', 'Thomas Brennan']
+Resultado de la batalla: Gano
+
+Evento: Beat among job like cold.
+Nombre del entrenador: Ronald Salazar
+Equipo de Pokemon: ['Charles Hall', 'Sandra Brown', 'Kimberly Jones', 'Debra Heath', 'Brian Torres', 'Robert Carpenter']
+Resultado de la batalla: Perdio
+
+Evento: Task occur against thank.
+Nombre del entrenador: Nicholas Stevens
+Equipo de Pokemon: ['Brandon Ware', 'Emily Welch', 'Susan Martinez', 'Karen Wiley', 'Christina Miranda', 'Daniel Rivas']
+Resultado de la batalla: Perdio
+
+Evento: Pretty left indeed suddenly whether.
+Nombre del entrenador: Samantha Hickman
+Equipo de Pokemon: ['Charles Hall', 'Debra Heath', 'Karen Wiley', 'James Flores', 'Judy Riley', 'Debra Heath']
+Resultado de la batalla: Gano
+
+Evento: Room cell with she.
+Nombre del entrenador: Martin Velasquez
+Equipo de Pokemon: ['Richard Summers', 'Richard Anderson', 'Sara Williams', 'Maureen Johnson', 'Ivan Wells', 'Gregory Turner']
+Resultado de la batalla: Perdio
+
+Evento: Image listen red against middle.
+Nombre del entrenador: Kenneth Fisher
+Equipo de Pokemon: ['Debra Heath', 'Brian Hahn', 'Elizabeth Price', 'Claudia Mcguire', 'Mark Sanchez', 'Claudia Mcguire']
+Resultado de la batalla: Gano
+
+Evento: Someone story century.
+Nombre del entrenador: Tracy Lopez
+Equipo de Pokemon: ['Robert Carpenter', 'Sandy Mendoza', 'Samuel Jackson', 'Tara Wagner', 'Judy Riley', 'Anthony Monroe']
+Resultado de la batalla: Perdio
+
+Evento: Degree full pick.
+Nombre del entrenador: Rodney Becker
+Equipo de Pokemon: ['Daniel Thomas', 'Brandon Hebert', 'Matthew Brooks', 'Paul Gutierrez', 'Andrew Jackson', 'Elizabeth Price']
+Resultado de la batalla: Perdio
+
+Evento: Physical benefit.
+Nombre del entrenador: Joshua Tran
+Equipo de Pokemon: ['Amber Cherry DDS', 'Brittany Henson', 'Samuel Jackson', 'Steven Hall', 'Patricia Dunn', 'Thomas Brennan']
+Resultado de la batalla: Perdio
+
+Evento: Pm each process.
+Nombre del entrenador: David Bowman
+Equipo de Pokemon: ['Tammy Franklin', 'Thomas Harris', 'Ryan Avila', 'Ashley Todd', 'David Melendez', 'Chase Smith']
+Resultado de la batalla: Perdio
+
+Evento: Eat cultural fire member.
+Nombre del entrenador: Mary Holland
+Equipo de Pokemon: ['Thomas Jarvis', 'Sara Williams', 'Thomas Brennan', 'Ellen Clark', 'Kathryn Reyes', 'Maureen Johnson']
+Resultado de la batalla: Gano
+
+Evento: Month knowledge.
+Nombre del entrenador: Kelly Clark
+Equipo de Pokemon: ['Elizabeth Price', 'Christopher Eaton', 'Scott Huerta', 'Robin Barnes', 'Melissa Duran', 'Christopher Reed']
+Resultado de la batalla: Perdio
+
+Evento: Himself impact.
+Nombre del entrenador: Mrs. Natalie Roberts
+Equipo de Pokemon: ['Joseph Nelson', 'Sandy Mendoza', 'Jeffery Johnson', 'David Melendez', 'James Flores', 'Paul Gutierrez']
+Resultado de la batalla: Gano
+
+Evento: Single environment win.
+Nombre del entrenador: Anthony Hernandez
+Equipo de Pokemon: ['Michele Evans', 'Jordan Baker', 'Anthony Davis', 'Joseph Nelson', 'Ivan Wells', 'Sandy Mendoza']
+Resultado de la batalla: Perdio
+
+Evento: Adult agency give.
+Nombre del entrenador: Brian Mcknight
+Equipo de Pokemon: ['Colton Smith', 'James Flores', 'Maureen Johnson', 'Robin Barnes', 'Thomas Brennan', 'Matthew Brooks']
+Resultado de la batalla: Perdio
+
+Evento: Study popular.
+Nombre del entrenador: Melissa Richardson
+Equipo de Pokemon: ['Sandy Mendoza', 'Mary Escobar', 'Brandon Ware', 'Lori Mitchell', 'Brandon Novak', 'Paul Gutierrez']
+Resultado de la batalla: Gano
+
+Evento: Model stage safe call miss.
+Nombre del entrenador: Jennifer Bennett
+Equipo de Pokemon: ['Brian Harrison', 'Brian Harrison', 'Carl Smith', 'Mary Escobar', 'Steven Wheeler', 'Christopher Eaton']
+Resultado de la batalla: Gano
+
+Evento: Movie expect indicate finish.
+Nombre del entrenador: Adam Lane
+Equipo de Pokemon: ['William Hatfield', 'Christopher Eaton', 'Anthony Monroe', 'Steve Vasquez', 'Chase Smith', 'Emily Welch']
+Resultado de la batalla: Gano
+
+Evento: There increase table.
+Nombre del entrenador: Kenneth Roberson
+Equipo de Pokemon: ['Brian Harrison', 'Charles Hall', 'Michele Evans', 'Ivan Wells', 'Robin Barnes', 'Patricia Dunn']
+Resultado de la batalla: Perdio
+
+Evento: Someone story century.
+Nombre del entrenador: Julie Price
+Equipo de Pokemon: ['Brandon Hebert', 'Claudia Mcguire', 'Ryan Avila', 'Chase Smith', 'John Williams', 'Lisa Martin']
+Resultado de la batalla: Gano
+
+Evento: Several bring scientist bed.
+Nombre del entrenador: Chelsea Vazquez
+Equipo de Pokemon: ['Daniel Thomas', 'Christina Miller', 'Sandy Mendoza', 'Chelsea Gonzalez', 'Sandra Brown', 'Brandon Ware']
+Resultado de la batalla: Perdio
+
+Evento: Official relationship institution.
+Nombre del entrenador: Shawn Payne
+Equipo de Pokemon: ['Nicholas Church', 'Deanna Thomas', 'Steven Wheeler', 'Tina Washington', 'Colton Smith', 'Matthew Barnes']
+Resultado de la batalla: Perdio
+
+Evento: Eat cultural fire member.
+Nombre del entrenador: Allison Whitaker
+Equipo de Pokemon: ['Emily Welch', 'Lisa Hernandez', 'Richard Anderson', 'Shawn Camacho', 'Tammy Franklin', 'Daniel Thomas']
+Resultado de la batalla: Perdio
+
+Evento: Stage west career decide early.
+Nombre del entrenador: Jason Baker MD
+Equipo de Pokemon: ['Phillip Stone', 'Christina Miller', 'Steven Hall', 'Eric Wilson', 'Thomas Jarvis', 'Eric Wilson']
+Resultado de la batalla: Perdio
+
+Evento: White weight available race country.
+Nombre del entrenador: Lauren Parker
+Equipo de Pokemon: ['Paul Gutierrez', 'Carl Smith', 'Anthony Monroe', 'Samuel Mcneil', 'Ashley Todd', 'Kathryn Reyes']
+Resultado de la batalla: Gano
+
+Evento: Single environment win.
+Nombre del entrenador: Pedro Blair
+Equipo de Pokemon: ['Robin Barnes', 'Chelsea Gonzalez', 'Melissa Duran', 'William Hatfield', 'Debra Heath', 'Brandon Novak']
+Resultado de la batalla: Gano
+
+Evento: Identify every station car.
+Nombre del entrenador: Cindy Rios
+Equipo de Pokemon: ['Mark Sanchez', 'Stephanie Oconnor MD', 'Tina Washington', 'Sandra Brown', 'Willie Acosta', 'Maureen Johnson']
+Resultado de la batalla: Gano
+
+Evento: White weight available race country.
+Nombre del entrenador: Jeremy Martin
+Equipo de Pokemon: ['Sara Williams', 'John Williams', 'Christina Miranda', 'Derek Vasquez', 'Eric Wilson', 'Jeffery Johnson']
+Resultado de la batalla: Gano
+
+Evento: Mean do want two half.
+Nombre del entrenador: Matthew Taylor
+Equipo de Pokemon: ['Ashley Blevins', 'Jeffery Johnson', 'Jennifer Montgomery', 'Anthony Monroe', 'Ellen Clark', 'Amber Erickson']
+Resultado de la batalla: Perdio
+
+Evento: And after economic.
+Nombre del entrenador: Kevin Tucker
+Equipo de Pokemon: ['Sara Williams', 'Kimberly Perez', 'Richard Anderson', 'Daniel Rivas', 'Susan Martinez', 'Michele Evans']
+Resultado de la batalla: Perdio
+
+Evento: Congress quality around recognize.
+Nombre del entrenador: Tammy Turner
+Equipo de Pokemon: ['Tammy Jordan', 'Michele Evans', 'Christopher Reed', 'Steven Wheeler', 'Andrew Jackson', 'Jordan Baker']
+Resultado de la batalla: Gano
+
+Evento: Month knowledge.
+Nombre del entrenador: Keith Williams
+Equipo de Pokemon: ['Joseph Nelson', 'Thomas Jarvis', 'Samuel Mcneil', 'Ellen Clark', 'Ashley Todd', 'Anthony Davis']
+Resultado de la batalla: Gano
+
+Evento: Buy cold really.
+Nombre del entrenador: Jennifer Chen
+Equipo de Pokemon: ['Ivan Wells', 'Tina Washington', 'Tammy Jordan', 'Kristen Johnson', 'Thomas Jarvis', 'Matthew Brooks']
+Resultado de la batalla: Perdio
+
+Evento: Serious ago billion instead task.
+Nombre del entrenador: Nancy Chang
+Equipo de Pokemon: ['Karen Wiley', 'Sara Williams', 'Amber Erickson', 'Mark Sanchez', 'Gregory Turner', 'Stephen Castillo']
+Resultado de la batalla: Perdio
+
+Evento: Sister present talk power on.
+Nombre del entrenador: Julie Norman
+Equipo de Pokemon: ['Chase Smith', 'Steven Wheeler', 'Samuel Jackson', 'Matthew Barnes', 'Richard Summers', 'John Williams']
+Resultado de la batalla: Gano
+
+Evento: Any drop base high.
+Nombre del entrenador: Robert Turner
+Equipo de Pokemon: ['William Hatfield', 'Victoria Madden', 'Tammy Jordan', 'Jeffery Johnson', 'Jennifer Montgomery', 'Daniel Thomas']
+Resultado de la batalla: Perdio
+
+Evento: Minute charge put.
+Nombre del entrenador: Dana Rhodes
+Equipo de Pokemon: ['Robin Barnes', 'Brian Harrison', 'Stephen Castillo', 'Thomas Brennan', 'Jennifer Montgomery', 'Charles Hall']
+Resultado de la batalla: Perdio
+
+Evento: Himself impact.
+Nombre del entrenador: Ashley Evans
+Equipo de Pokemon: ['Kimberly Jones', 'James Flores', 'Tara Wagner', 'Kathryn Reyes', 'Thomas Brennan', 'Kristen Johnson']
+Resultado de la batalla: Gano
+
+Evento: Practice rock window specific.
+Nombre del entrenador: Sean Fitzpatrick
+Equipo de Pokemon: ['Christopher Eaton', 'Tara Wagner', 'Sandy Mendoza', 'Michele Evans', 'Matthew Brooks', 'Matthew Barnes']
+Resultado de la batalla: Gano
+
+Evento: Blue break walk success other.
+Nombre del entrenador: Cynthia Rose
+Equipo de Pokemon: ['Christopher Eaton', 'Christina Miranda', 'Tara Wagner', 'Richard Summers', 'David Melendez', 'Angel Coleman']
+Resultado de la batalla: Gano
+
+Evento: Pm each process.
+Nombre del entrenador: Anthony Allen
+Equipo de Pokemon: ['Joseph Nelson', 'Phillip Stone', 'Lori Mitchell', 'Victoria Madden', 'Mark Sanchez', 'Eric Wilson']
+Resultado de la batalla: Perdio
+
+Evento: Single environment win.
+Nombre del entrenador: Matthew Griffin
+Equipo de Pokemon: ['Jeffery Johnson', 'Derek Vasquez', 'Kristen Johnson', 'Kristen Wong', 'Paul Gutierrez', 'Jeffery Johnson']
+Resultado de la batalla: Perdio
+
+Evento: Movie expect indicate finish.
+Nombre del entrenador: Bradley Ross
+Equipo de Pokemon: ['Carl Smith', 'James Flores', 'Kristen Wong', 'Patricia Dunn', 'Stephen Smith', 'Patricia Dunn']
+Resultado de la batalla: Gano
+
+Evento: Movie expect indicate finish.
+Nombre del entrenador: Angela Kemp
+Equipo de Pokemon: ['Brittany Henson', 'David Melendez', 'Kristen Johnson', 'Sandra Brown', 'Richard Anderson', 'Kristen Johnson']
+Resultado de la batalla: Gano
+
+Evento: Identify every station car.
+Nombre del entrenador: Christopher Gregory
+Equipo de Pokemon: ['Sandy Mendoza', 'Brian Harrison', 'Steve Vasquez', 'Stephen Smith', 'Eric Wilson', 'Mark Sanchez']
+Resultado de la batalla: Perdio
+
+Evento: Member cultural decade artist check.
+Nombre del entrenador: Ann May
+Equipo de Pokemon: ['Sara Williams', 'Tara Smith', 'Tammy Jordan', 'Gregory Turner', 'Ellen Clark', 'Sara Williams']
+Resultado de la batalla: Perdio
+
+Evento: Old with rise benefit police.
+Nombre del entrenador: Rachel Frye
+Equipo de Pokemon: ['Richard Summers', 'Brandon Ware', 'Tara Wagner', 'Paul Gutierrez', 'Karen Wiley', 'Shawn Camacho']
+Resultado de la batalla: Perdio
+
+Evento: Image listen red against middle.
+Nombre del entrenador: Melanie Coleman
+Equipo de Pokemon: ['Shawn Camacho', 'Chase Smith', 'Joseph Nelson', 'Maureen Johnson', 'Judy Riley', 'Amber Erickson']
+Resultado de la batalla: Perdio
+
+Evento: Future relationship.
+Nombre del entrenador: Michael Clark
+Equipo de Pokemon: ['Richard Anderson', 'Gregory Turner', 'Matthew Barnes', 'Mark Sanchez', 'Kimberly Jones', 'Joseph Nelson']
+Resultado de la batalla: Gano
+
+Evento: Outside response.
+Nombre del entrenador: Jeffrey Collins
+Equipo de Pokemon: ['Jordan Baker', 'Robert Carpenter', 'Daniel Rivas', 'Scott Huerta', 'Brian Hahn', 'Emily Welch']
+Resultado de la batalla: Perdio
+
+Evento: Different detail sea name.
+Nombre del entrenador: Jessica Richards
+Equipo de Pokemon: ['Tina Washington', 'Richard Summers', 'Tammy Jordan', 'Debra Heath', 'Stephen Castillo', 'Chase Smith']
+Resultado de la batalla: Gano
+
+Evento: Might fear represent dinner.
+Nombre del entrenador: Jason Hansen
+Equipo de Pokemon: ['Victoria Madden', 'Brandon Novak', 'Thomas Jarvis', 'Richard Anderson', 'Robert Carpenter', 'Melissa Duran']
+Resultado de la batalla: Perdio
+
+Evento: Adult agency give.
+Nombre del entrenador: Taylor Smith
+Equipo de Pokemon: ['Brandon Novak', 'Karen Wiley', 'Stephen Castillo', 'Christopher Eaton', 'Lisa Hernandez', 'Debra Heath']
+Resultado de la batalla: Perdio
+
+Evento: Practice rock window specific.
+Nombre del entrenador: Joshua Hernandez
+Equipo de Pokemon: ['Brittany Henson', 'Maureen Johnson', 'Anthony Davis', 'Tammy Franklin', 'Emily Welch', 'Joseph Nelson']
+Resultado de la batalla: Perdio
+
+Evento: Minute charge put.
+Nombre del entrenador: David Hensley
+Equipo de Pokemon: ['Emily Welch', 'Nicholas Church', 'Christopher Reed', 'Stephen Castillo', 'Lori Mitchell', 'Ashley Todd']
+Resultado de la batalla: Perdio
+
+Evento: Fill left plan most four.
+Nombre del entrenador: Nathan Gutierrez
+Equipo de Pokemon: ['Debra Heath', 'Willie Acosta', 'Kimberly Jones', 'Ivan Wells', 'Thomas Harris', 'Ashley Blevins']
+Resultado de la batalla: Gano
+
+Evento: Later red.
+Nombre del entrenador: Catherine Jones
+Equipo de Pokemon: ['Robin Barnes', 'Willie Acosta', 'Mary Escobar', 'Kristen Johnson', 'Melissa Duran', 'Christina Miranda']
+Resultado de la batalla: Gano
+
+Evento: Outside response.
+Nombre del entrenador: Lori Harper
+Equipo de Pokemon: ['Victoria Madden', 'Thomas Brennan', 'Brandon Ware', 'Amber Erickson', 'Phillip Stone', 'Charles Hall']
+Resultado de la batalla: Gano
+
+Evento: Movie expect indicate finish.
+Nombre del entrenador: Tamara Velez
+Equipo de Pokemon: ['Kristen Wong', 'Ellen Clark', 'Richard Anderson', 'Sandy Mendoza', 'Lisa Martin', 'Terri Rhodes MD']
+Resultado de la batalla: Perdio
+
+Evento: Appear carry item.
+Nombre del entrenador: Patricia Holloway
+Equipo de Pokemon: ['Charles Hall', 'Thomas Jarvis', 'Michele Evans', 'Richard Summers', 'Christopher Eaton', 'Thomas Harris']
+Resultado de la batalla: Gano
+
+Evento: Bill example.
+Nombre del entrenador: Virginia Newman
+Equipo de Pokemon: ['Mark Sanchez', 'Brian Torres', 'Thomas Brennan', 'Victoria Madden', 'Tina Washington', 'Anthony Monroe']
+Resultado de la batalla: Gano
+
+Evento: Health factor together go air.
+Nombre del entrenador: Julia Moore
+Equipo de Pokemon: ['Stephanie Oconnor MD', 'Brandon Ware', 'Christina Miranda', 'Shawn Camacho', 'Brittany Henson', 'James Flores']
+Resultado de la batalla: Perdio
+
+Evento: Different detail sea name.
+Nombre del entrenador: Melissa Carroll
+Equipo de Pokemon: ['Patricia Dunn', 'Shawn Camacho', 'Andrew Jackson', 'Natalie Jackson', 'Brittany Henson', 'Scott Huerta']
+Resultado de la batalla: Perdio
+
+Evento: Finally middle apply own.
+Nombre del entrenador: Maurice Hodge
+Equipo de Pokemon: ['Sandy Mendoza', 'Mary Escobar', 'Angel Coleman', 'Scott Huerta', 'Steven Wheeler', 'Amber Cherry DDS']
+Resultado de la batalla: Gano
+
+Evento: Pretty left indeed suddenly whether.
+Nombre del entrenador: Christopher Moreno
+Equipo de Pokemon: ['Maureen Johnson', 'Christina Miranda', 'Terri Rhodes MD', 'Robin Barnes', 'Jordan Baker', 'Amber Erickson']
+Resultado de la batalla: Gano
+
+Evento: Democratic style space serve.
+Nombre del entrenador: Whitney Moore
+Equipo de Pokemon: ['Carl Smith', 'Gregory Turner', 'Brandon Ware', 'Stephanie Oconnor MD', 'Nicholas Church', 'Joseph Nelson']
+Resultado de la batalla: Gano
+
+Evento: Health factor together go air.
+Nombre del entrenador: Charles Campbell
+Equipo de Pokemon: ['Debra Heath', 'Gregory Turner', 'Amber Cherry DDS', 'Charles Hall', 'John Williams', 'Claudia Mcguire']
+Resultado de la batalla: Gano
+
+Evento: Official relationship institution.
+Nombre del entrenador: Jeffery Williams
+Equipo de Pokemon: ['Brandon Hebert', 'Lisa Martin', 'Emily Welch', 'Ashley Blevins', 'Stephen Castillo', 'Steven Hall']
+Resultado de la batalla: Perdio
+
+Evento: Must allow enjoy accept.
+Nombre del entrenador: Nancy Schmidt
+Equipo de Pokemon: ['Debra Heath', 'Carl Smith', 'Brittany Henson', 'Brandon Ware', 'Mary Escobar', 'Nicholas Church']
+Resultado de la batalla: Perdio
+
+Evento: Pm each process.
+Nombre del entrenador: Cody Brown
+Equipo de Pokemon: ['Thomas Brennan', 'Gregory Turner', 'Kristen Wong', 'Lisa Hernandez', 'Alison Bennett', 'Claudia Mcguire']
+Resultado de la batalla: Perdio
+
+Evento: First kitchen near create stuff.
+Nombre del entrenador: Kerry Murray
+Equipo de Pokemon: ['Steven Wheeler', 'Daniel Rivas', 'Brandon Hebert', 'Samuel Mcneil', 'Jordan Baker', 'Kristen Wong']
+Resultado de la batalla: Gano
+
+Evento: There hour like focus.
+Nombre del entrenador: Jordan Miller
+Equipo de Pokemon: ['Emily Welch', 'James Flores', 'Stephen Smith', 'Robin Barnes', 'Sandy Mendoza', 'Terri Rhodes MD']
+Resultado de la batalla: Perdio
+
+Evento: Like event pattern chair memory.
+Nombre del entrenador: Daniel Wells
+Equipo de Pokemon: ['Joseph Nelson', 'Richard Summers', 'Alison Bennett', 'Terri Rhodes MD', 'Susan Martinez', 'Eric Wilson']
+Resultado de la batalla: Perdio
+
+Evento: At standard.
+Nombre del entrenador: Nancy Contreras
+Equipo de Pokemon: ['Sara Williams', 'Mary Escobar', 'Brandon Novak', 'Daniel Rivas', 'Kimberly Jones', 'Shawn Camacho']
+Resultado de la batalla: Perdio
+
+Evento: If necessary message read.
+Nombre del entrenador: David Brown
+Equipo de Pokemon: ['Chase Smith', 'Christina Miller', 'Colton Smith', 'Robin Barnes', 'Patricia Dunn', 'Anthony Monroe']
+Resultado de la batalla: Perdio
+
+Evento: Identify every station car.
+Nombre del entrenador: Yvonne Gonzalez
+Equipo de Pokemon: ['Shawn Camacho', 'Ivan Wells', 'Derek Vasquez', 'Steven Wheeler', 'Brandon Ware', 'William Hatfield']
+Resultado de la batalla: Gano
+
+Evento: Power green up.
+Nombre del entrenador: Michael Davis
+Equipo de Pokemon: ['Brittany Henson', 'Colton Smith', 'Stephen Castillo', 'Steven Wheeler', 'Shawn Camacho', 'Stephanie Oconnor MD']
+Resultado de la batalla: Gano
+
+Evento: Outside response.
+Nombre del entrenador: Erik Weaver
+Equipo de Pokemon: ['Sandra Brown', 'Kimberly Jones', 'Chase Smith', 'Matthew Barnes', 'Michele Evans', 'Brittany Henson']
+Resultado de la batalla: Perdio
+
+Evento: Congress quality around recognize.
+Nombre del entrenador: Sheri Berg
+Equipo de Pokemon: ['Kathryn Reyes', 'Elizabeth Price', 'Steve Vasquez', 'Scott Huerta', 'Alison Bennett', 'Tammy Jordan']
+Resultado de la batalla: Gano
+
+Evento: Wide official parent whose rather.
+Nombre del entrenador: Angel Hale
+Equipo de Pokemon: ['Chelsea Gonzalez', 'Debra Heath', 'Richard Anderson', 'Judy Riley', 'Judy Riley', 'Christopher Reed']
+Resultado de la batalla: Perdio
+
+Evento: There increase table.
+Nombre del entrenador: Todd Stewart DDS
+Equipo de Pokemon: ['Charles Hall', 'Matthew Barnes', 'Lisa Martin', 'Phillip Stone', 'Angel Coleman', 'Ashley Blevins']
+Resultado de la batalla: Gano
+
+Evento: Wear identify.
+Nombre del entrenador: Cody Jimenez
+Equipo de Pokemon: ['Samuel Mcneil', 'Kimberly Perez', 'Amber Cherry DDS', 'Eric Wilson', 'Christina Miranda', 'Amber Cherry DDS']
+Resultado de la batalla: Gano
+
+Evento: Pm each process.
+Nombre del entrenador: Christy Moore
+Equipo de Pokemon: ['Amber Cherry DDS', 'Samuel Mcneil', 'Richard Anderson', 'Samuel Mcneil', 'Natalie Jackson', 'Christopher Reed']
+Resultado de la batalla: Perdio
+
+Evento: Image main lot.
+Nombre del entrenador: Christina Duran
+Equipo de Pokemon: ['Christopher Lucas', 'Natalie Jackson', 'Kathryn Reyes', 'Sandy Mendoza', 'Jeffery Johnson', 'Sandra Brown']
+Resultado de la batalla: Perdio
+
+Evento: Too inside.
+Nombre del entrenador: Veronica Smith
+Equipo de Pokemon: ['Nicholas Church', 'Tammy Jordan', 'Michele Evans', 'Jeffery Johnson', 'Ryan Avila', 'Thomas Brennan']
+Resultado de la batalla: Gano
+
+Evento: Serious ago billion instead task.
+Nombre del entrenador: Douglas Golden
+Equipo de Pokemon: ['Tara Smith', 'Emily Welch', 'Chase Smith', 'Emily Welch', 'Richard Anderson', 'Ivan Wells']
+Resultado de la batalla: Gano
+
+Evento: Improve professional mouth.
+Nombre del entrenador: Tina Ferguson
+Equipo de Pokemon: ['Richard Anderson', 'Kristen Wong', 'Christopher Eaton', 'Daniel Rivas', 'Deanna Thomas', 'Joseph Nelson']
+Resultado de la batalla: Gano
+
+Evento: Pay have system.
+Nombre del entrenador: Gavin Odonnell
+Equipo de Pokemon: ['Kathryn Reyes', 'Robin Barnes', 'Michele Evans', 'Chase Smith', 'James Flores', 'Matthew Brooks']
+Resultado de la batalla: Perdio
+
+Evento: Maybe table expect.
+Nombre del entrenador: Sherry Martinez
+Equipo de Pokemon: ['Richard Summers', 'Thomas Jarvis', 'Mary Escobar', 'Kimberly Perez', 'Anthony Monroe', 'Robin Barnes']
+Resultado de la batalla: Perdio
+
+Evento: Maybe table expect.
+Nombre del entrenador: Jessica Welch
+Equipo de Pokemon: ['Susan Martinez', 'Deanna Thomas', 'Chelsea Gonzalez', 'Joseph Nelson', 'Andrew Jackson', 'David Melendez']
+Resultado de la batalla: Gano
+
+Evento: Might fear represent dinner.
+Nombre del entrenador: Susan Foster
+Equipo de Pokemon: ['Nicholas Church', 'Matthew Brooks', 'Chelsea Gonzalez', 'Christopher Eaton', 'Maureen Johnson', 'Tina Washington']
+Resultado de la batalla: Gano
+
+Evento: Several bring scientist bed.
+Nombre del entrenador: Jonathan Hayes
+Equipo de Pokemon: ['Matthew Brooks', 'Brandon Ware', 'Kristen Wong', 'Thomas Harris', 'Christina Miller', 'Kimberly Perez']
+Resultado de la batalla: Perdio
+
+Evento: Wear identify.
+Nombre del entrenador: Leah Johnson
+Equipo de Pokemon: ['Ashley Blevins', 'Tammy Franklin', 'Stephanie Oconnor MD', 'Stephen Castillo', 'Tina Washington', 'Ellen Clark']
+Resultado de la batalla: Gano
+
